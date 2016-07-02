@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="blue" type="color">#55acee</item>
+    <item name="black" type="color">#292f33</item>
+    <item name="darkgray" type="color">#66757f</item>
+    <item name="mediumgray" type="color">#ccd6dd</item>
+    <item name="lightgray" type="color">#e1e8ed</item>
+    <item name="white" type="color">#ffffff</item>
+
+
+
+</resources>
